@@ -4,20 +4,10 @@
 C# 影像物體偵測(動物辨識)，使用Yolo實作
 
 > Copyright © 2020 Linwebs.tw  
-> Code By Linwebs 1072926 林哲緯  
-> 此專案 Git 位置: https://github.com/linwebs/CSharp_Yolo_Image_Object_Detection
-> 此專案 Google Drive 連結: https://drive.google.com/file/d/1q3B2IAM6zODH9g1gvqMmZM5hWqdX2pCW/view?usp=sharing
+> Code By Linwebs 1072926 林哲緯
 
-### 允許使用此專案繳交作業人員列表: (共9位)
-* 1072911 陳元娣
-* 1072917 徐安怡
-* 1072919 廖亭柔
-* 1072921 池畇蓁
-* 1072926 林哲緯 (作者)
-* 1072928 江毓晴
-* 1072942 楊欣瑀
-* 1072945 黎臻
-* 1072960 羅傳郡
+> 此專案 Git 位置: https://github.com/linwebs/CSharp_Yolo_Image_Object_Detection  
+> 此專案 Google Drive 連結: https://drive.google.com/file/d/1q3B2IAM6zODH9g1gvqMmZM5hWqdX2pCW/view?usp=sharing
 
 ### 原始題目
 > 以下題目要用 C# 完成否則不計分  
